@@ -8,9 +8,9 @@
   "server": {
     "ip": "WbananaSMP.aternos.me",
     "port": 20469,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
-  },
+  },q
   "position": {
     "enabled": true,
     "x": 0,
